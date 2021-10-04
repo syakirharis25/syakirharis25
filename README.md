@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about GitHub
 - 📫 How to reach me: https://twitter.com/syakirharis25
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming language, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
+- ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming languages, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
+- :octocat: GitHub Gist : https://gist.github.com/syakirharis25
 -->
 
 - 🔭 I’m currently working on GitHub
@@ -22,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about GitHub
 - 📫 How to reach me: https://twitter.com/syakirharis25
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming language, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
+- ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming languages, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
 - :octocat: GitHub Gist : https://gist.github.com/syakirharis25
