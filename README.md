@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⏳ Second Hours in progress : 10,251 / 25,000
 - 📖 Join me in Hasnode, reading books related to computer science : https://hashnode.com/@syakirharis/joinme
 
-| YEAR  | HOUR         | TOP PROJECT |
+| YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
 | XXXX  | 10,251:33:09 | ANGULAR     |
 | 2021  | 5,479:16:06  | ANGULAR     |
