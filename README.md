@@ -11,7 +11,7 @@
 - :octocat: GitHub Gist : https://gist.github.com/syakirharis25
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second hours in progress : 10,251 / 25,000
-- 📖 Join me in Hasnode, reading books, improving skills related to computer science : https://hashnode.com/@syakirharis/joinme
+- 📖 Join me in Hashnode, reading books, improving skills related to computer science : https://hashnode.com/@syakirharis/joinme
 - 💵 Please do support me, currently I am using PayPal service for any kind of donation : https://www.paypal.com/paypalme/syakirharis
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
