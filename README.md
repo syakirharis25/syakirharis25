@@ -1,4 +1,4 @@
-### Hi, my name is Muhammad Syakir bin Mohd Haris 👋
+### Hi, my name is Muhammad Syakir bin Mohd Haris
 
 - 🔭 I’m currently working on GitHub
 - 🌱 I’m currently learning to use GitHub
