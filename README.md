@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second hours in progress : 10,251 / 25,000
 - 📖 Join me in Hasnode, reading books related to computer science : https://hashnode.com/@syakirharis/joinme
+- :paypal: Please do support me, currently using PayPal as it accept a lot of major currencies in this world : https://www.paypal.com/paypalme/syakirharis
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
