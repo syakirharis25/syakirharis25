@@ -1,4 +1,4 @@
-### Hi, my name is Muhammad Syakir bin Mohd Haris bin Mohd Ariffin 👋
+### Hi, my name is Muhammad Syakir bin Mohd Haris 👋
 
 <!--
 **syakirharis25/syakirharis25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
