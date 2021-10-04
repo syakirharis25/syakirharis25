@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming languages, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
 - :octocat: GitHub Gist : https://gist.github.com/syakirharis25
 
-First Hours : 10,251 / 10,000 | 29 September 2021 | 369 days
-Second Hours : 10,251 / 25,000
 
 | YEARS | HOURS        | TOP PROJECT |
 |-------|--------------|-------------|
 | 2020  | 4,772:17:03  | JAVA        |  
 | 2021  | 5,479:16:06  | ANGULAR     |
 | XXXX  | 10,251:33:09 | ANGULAR     |
+
+
+- ⌛ First Hours : 10,251 / 10,000 | 29 September 2021 | 369 days
+- ⏳ Second Hours : 10,251 / 25,000
