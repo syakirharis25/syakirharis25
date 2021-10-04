@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 First Hours : 10,251 / 10,000 | 29 September 2021 | 369 days
 Second Hours : 10,251 / 25,000
 
-YEARS | HOURS       | TOP PROJECT
----------------------------------
-2020  | 4,772:17:03 | JAVA
-2021  | 5,479:16:06 | ANGULAR
-XXXX  | 10,251:33:09 | ANGULAR
+YEARS | HOURS        | TOP PROJECT <br />
+---------------------------------- <br />
+2020  | 4,772:17:03  | JAVA        <br />    
+2021  | 5,479:16:06  | ANGULAR     <br />
+XXXX  | 10,251:33:09 | ANGULAR     <br />
