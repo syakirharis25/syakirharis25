@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - :octocat: GitHub Gist : https://gist.github.com/syakirharis25
 - ⌛ First Hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second Hours in progress : 10,251 / 25,000
+- 📖 Join me in Hasnode, reading books related to computer science : https://hashnode.com/@syakirharis/joinme
 
 | YEAR  | HOUR         | TOP PROJECT |
 |-------|--------------|-------------|
