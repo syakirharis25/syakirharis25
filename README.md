@@ -16,10 +16,6 @@
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syakirharis25&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
 | XXXX  | 10,251:33:09 | ANGULAR     |
