@@ -14,7 +14,7 @@
 - 📖 Join me in Hashnode, reading books, improving skills related to computer science : https://syakirharis.hashnode.dev
 - 💵 Please do support me, currently I am using PayPal service for any kind of donation : https://www.paypal.com/paypalme/syakirharis
 
-[![Muhammad Syakir bin Mohd Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammad Syakir bin Mohd Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
