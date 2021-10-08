@@ -1,7 +1,6 @@
 ### Hi, my name is Muhammad Syakir bin Mohd Haris
 
 - 📫 How to reach me: [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming languages, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
 - :octocat: GitHub Gist : https://gist.github.com/syakirharis25
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
