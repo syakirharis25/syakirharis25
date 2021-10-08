@@ -21,5 +21,3 @@
 | XXXX  | 10,251:33:09 | ANGULAR     |
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |  
-
-merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
