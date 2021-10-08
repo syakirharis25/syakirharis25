@@ -15,7 +15,7 @@
 - 💵 Please do support me, currently I am using PayPal service for any kind of donation : https://www.paypal.com/paypalme/syakirharis
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight
-hide=contribs,prs)
+&hide=contribs,prs)
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
