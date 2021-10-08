@@ -1,10 +1,5 @@
 ### Hi, my name is Muhammad Syakir bin Mohd Haris
 
-- 🔭 I’m currently working on GitHub
-- 🌱 I’m currently learning to use GitHub
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with GitHub
-- 💬 Ask me about GitHub
 - 📫 How to reach me: [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: currently I am already reached 10,000 hours working on different kind of computer programming languages, looking forward on how to properly use GitHub Gist functionality for better personal learning content management
