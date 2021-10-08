@@ -20,4 +20,4 @@
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |  
 
-[![Muhammad Syakir bin Mohd Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=syakirharis25)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammad Syakir bin Mohd Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
