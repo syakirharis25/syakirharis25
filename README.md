@@ -7,7 +7,7 @@
 - ⏳ Second hours in progress : 10,251 / 25,000
 - 📖 Join me in Hashnode, reading books, improving skills related to computer science : https://syakirharis.hashnode.dev
 - 💵 Please do support me, currently I am using PayPal service for any kind of donation : https://www.paypal.com/paypalme/syakirharis
-- 🐈 About the repeated questions if I accept donation in form of cat, currently I do not accept any donation in form of cat, as I do not eat cat, but if you want to donate in form of cow, buffalo, goat, sheep, chicken, prawn, fish, all of them is still alive and in perfect condition then that kind of donation I do accept it as I do eat all those animals.
+- 🐈 About the questions "do I accept donation in thr form of a living cat?", currently I do not accept any donation in the form of any cat, as I do not eat cat, and because currently I am using PayPal service, therefore currently I am accepting donation in form of legal currencies, for further reference : https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
