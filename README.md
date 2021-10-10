@@ -7,7 +7,7 @@
 - ⏳ Second hours in progress : 10,251 / 25,000
 - 📖 Join me in [Hashnode](https://syakirharis.hashnode.dev), reading books, improving skills related to computer science
 - 💵 Please do support me, currently I am using [PayPal](https://www.paypal.com/paypalme/syakirharis) service for any kind of donation 
-- 🐈 About the questions "do I accept donation in the form of a living cat?", currently I do not accept any donation in the form of any cat, as I do not eat cat, and because currently I am using PayPal service, therefore currently I am only accepting donation in form of legal currencies as listed in the [PayPal Supported Currencies](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
+- 🐈 About the questions "do I accept donation in the form of a living cat?", I do not accept any donation in the form of any cat, as I do not eat cat, and because currently I am using PayPal service, therefore I am only accepting donation in form of legal currencies as listed in the [PayPal Supported Currencies](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
