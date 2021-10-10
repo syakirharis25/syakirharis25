@@ -6,7 +6,7 @@
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second hours in progress : 10,251 / 25,000
 - 📖 Join me in Hashnode, reading books, improving skills related to computer science : https://syakirharis.hashnode.dev
-- 💵 Please do support me, currently I am using PayPal service for any kind of donation : https://www.paypal.com/paypalme/syakirharis
+- 💵 Please do support me, currently I am using [PayPal service](https://www.paypal.com/paypalme/syakirharis) for any kind of donation 
 - 🐈 About the questions "do I accept donation in the form of a living cat?", currently I do not accept any donation in the form of any cat, as I do not eat cat, and because currently I am using PayPal service, therefore currently I am accepting donation in form of legal currencies as listed in the [PayPal Supported Currencies](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
