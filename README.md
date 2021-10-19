@@ -6,8 +6,8 @@
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second hours in progress : 10,251 / 25,000
 - 📖 Join me in [Hashnode](https://syakirharis.hashnode.dev), reading books, improving skills related to computer science
-- 💵 Please do support me, currently I am using [PayPal](https://www.paypal.com/paypalme/syakirharis) service for any kind of donation 
-- 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members) 
+- 💵 Please do support me, currently I am using [PayPal](https://www.paypal.com/paypalme/syakirharis) service for any kind of donation, in any currency 
+- 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [Revue annual newsletter](https://www.getrevue.co/profile/syakirharis25/members) in £ currency, for the newsletter in $ currency, you can subscribe to my [Substack newsletter](https://syakirharis.substack.com/welcome)
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
