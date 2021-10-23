@@ -1,4 +1,4 @@
-### Hi, my name is Muhammad Syakir bin Mohd Haris
+### Relentless. Never ever stop reading books. 📚
 
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me: [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
