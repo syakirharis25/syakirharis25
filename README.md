@@ -2,6 +2,7 @@
 
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me: [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
+- 🐦 Social media account : currently I am using [Twitter](https://twitter.com/syakirharis25)
 - ⚡ Fun fact: currently I am already reached 10,000 hours working on computer programming languages
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
 - ⏳ Second hours in progress : 10,251 / 25,000
