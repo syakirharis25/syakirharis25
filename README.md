@@ -17,4 +17,4 @@
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5d4a24d6-b4e0-4193-be45-087669925bb3)](https://github.com/anuraghazra/github-readme-stats)
