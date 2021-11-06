@@ -17,4 +17,4 @@
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |
 
-[![Muhammad Syakir bin Mohd Haris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25](https://github.com/anuraghazra/github-readme-stats) 
+[![Muhammad Syakir bin Mohd Haris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25](https://github.com/anuraghazra/github-readme-stats)
