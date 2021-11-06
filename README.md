@@ -16,6 +16,3 @@
 | XXXX  | 10,251:33:09 | ANGULAR     |
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |
-
-[![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)
-
