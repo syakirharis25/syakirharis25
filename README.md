@@ -20,3 +20,6 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=blue) [![Paypal](https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667)](https://paypal.me/syakirharis) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40syakirharis25)](https://twitter.com/syakirharis25)
+
+[![Paypal](https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465)](https://paypal.me/syakirharis)
+
