@@ -19,4 +19,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25)](https://github.com/anuraghazra/github-readme-stats)
