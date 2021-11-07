@@ -17,8 +17,6 @@
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | JAVA        |
 
-[![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)
-
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Paypal](https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667)](https://paypal.me/syakirharis) 
+[![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)  [![Paypal](https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667)](https://paypal.me/syakirharis) 
