@@ -17,7 +17,7 @@
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![computer programming practice](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/5d4a24d6-b4e0-4193-be45-087669925bb3.svg)](https://wakatime.com/@5d4a24d6-b4e0-4193-be45-087669925bb3)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=blue) [![Tweet](https://camo.githubusercontent.com/ba6a0298e220e449fbeb57c321bf15769fcc4fe62fa4b00909b09266505ccbbd/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246726168756c646b6a61696e2e6769746875622e696f2532466769746875622d70726f66696c652d726561646d652d67656e657261746f72)](https://twitter.com/intent/tweet?url=https://github.com/syakirharis25) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40syakirharis25)](https://twitter.com/syakirharis25)
 
