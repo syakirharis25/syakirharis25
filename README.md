@@ -29,4 +29,4 @@
 
 ![](https://gitwar.herokuapp.com/badge?username=syakirharis25)
 
-![](https://gitwar.herokuapp.com/badge?username=your-github-username&color=green)
+![](https://gitwar.herokuapp.com/badge?username=syakirharis25&color=green)
