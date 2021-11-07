@@ -25,3 +25,4 @@
 
 ![](https://gitwar.herokuapp.com/badge?username=syakirharis25&style=flat-square)
 
+![](https://komarev.com/ghpvc/?username=syakirharis25&label=PROFILE+VIEWS)
