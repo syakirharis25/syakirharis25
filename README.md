@@ -19,8 +19,10 @@
 
 ![](https://komarev.com/ghpvc/?username=syakirharis25&label=Thanks+for+viewing+Muhammad+Syakir+bin+Mohd+Haris+GitHub) [![Paypal](https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465)](https://paypal.me/syakirharis)
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=Muhammad%20Syakir%20bin%20Mohd%20Haris%20currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
 
 &custom_title=Wakapi%20Week%20Stats&layout=compact)
+
+Muhammad%20Syakir%20bin%20Mohd%20Haris
 
 [![Tweet](https://camo.githubusercontent.com/ba6a0298e220e449fbeb57c321bf15769fcc4fe62fa4b00909b09266505ccbbd/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246726168756c646b6a61696e2e6769746875622e696f2532466769746875622d70726f66696c652d726561646d652d67656e657261746f72)](https://twitter.com/intent/tweet?url=https://github.com/syakirharis25) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40syakirharis25)](https://twitter.com/syakirharis25)
