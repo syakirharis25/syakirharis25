@@ -23,4 +23,6 @@
 
 [![Tweet](https://camo.githubusercontent.com/ba6a0298e220e449fbeb57c321bf15769fcc4fe62fa4b00909b09266505ccbbd/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246726168756c646b6a61696e2e6769746875622e696f2532466769746875622d70726f66696c652d726561646d652d67656e657261746f72)](https://twitter.com/intent/tweet?url=https://github.com/syakirharis25) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40syakirharis25)](https://twitter.com/syakirharis25)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"> 
+| Medium article |
+| -------------- |
+| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"> 
