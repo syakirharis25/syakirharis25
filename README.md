@@ -27,13 +27,3 @@
 | Medium latest article |
 | --------------------- |
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
-
-| Medium latest article |
-| --------------------- |
-| <center>[![medium](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0) </center>
-
-<table cellpadding="0">
-  <tr style="padding: 0" align="center">
-    <td align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a></td>
-  </tr>
-</table>
