@@ -26,4 +26,8 @@
 
 | Medium latest article |
 | --------------------- |
-| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img align="center" src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
+| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
+
+| Medium latest article |
+| --------------------- |
+| [![medium](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)
