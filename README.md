@@ -11,7 +11,7 @@
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
-| XXXX  | 11,251:38:49 | ANGULAR     | ![7%](https://progress-bar.dev/7)
+| XXXX  | 11,251:38:49 | ANGULAR     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
 | 2021  | 6,479:21:46  | ANGULAR     | ![13%](https://progress-bar.dev/13)
 | 2020  | 4,772:17:03  | BREAK       | ![27%](https://progress-bar.dev/27)
 
