@@ -18,7 +18,7 @@
   
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=syakirharis25&label=Thanks+for+viewing+Muhammad+Syakir+bin+Mohd+Haris+GitHub) [![Paypal](https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465)](https://paypal.me/syakirharis)
+![Thanks](https://komarev.com/ghpvc/?username=syakirharis25&label=Thanks+for+viewing+Muhammad+Syakir+bin+Mohd+Haris+GitHub) [![Paypal](https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465)](https://paypal.me/syakirharis)
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,4 +28,6 @@
 | -------------- |
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
 
-![go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+![go](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
