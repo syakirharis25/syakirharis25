@@ -12,8 +12,8 @@
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
 | XXXX  | 11,251:38:49 | ANGULAR     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
-| 2021  | 6,479:21:46  | ANGULAR     | ![13%](https://progress-bar.dev/13)
-| 2020  | 4,772:17:03  | BREAK       | ![27%](https://progress-bar.dev/27)
+| 2021  | 6,479:21:46  | ANGULAR     | <div align="center"> ![13%](https://progress-bar.dev/13) </div>
+| 2020  | 4,772:17:03  | BREAK       | <div align="center"> ![27%](https://progress-bar.dev/27) </div>
 
 ![Muhammad Syakir bin Mohd Haris's GitHub statistics](https://github-readme-stats.vercel.app/api?username=syakirharis25&show_icons=true&theme=tokyonight)
 
