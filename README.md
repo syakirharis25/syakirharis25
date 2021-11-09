@@ -34,7 +34,6 @@
 
 <table cellpadding="0">
   <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a></td>
+    <td align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a></td>
   </tr>
 </table>
