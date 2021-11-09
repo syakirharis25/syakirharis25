@@ -3,11 +3,12 @@
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ First hours done : 10,251 / 10,000 | 29 September 2021 | 369 days
-- ⏳ Second hours in progress : 10,251 / 20,000 ![progress](https://us-central1-progress-markdown.cloudfunctions.net/progress/12) ![50%](https://progress-bar.dev/67)
+- ⏳ Second hours in progress : 10,251 / 20,000 
 - 🐦 Follow me on [Twitter](https://twitter.com/syakirharis25), reading latest news especially related to computer science
 - 📖 Join me in [Medium](https://syakirharis25.medium.com), reading books, improving skills related to computer science
 - 💵 Please do support me, currently I am using service [PayPal](https://paypal.me/syakirharis), accepting any kind of donation, in any currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
+- ![progressdate](https://progress-bar.dev/86) Of year 2021 before year 2022
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
