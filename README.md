@@ -30,4 +30,4 @@
 
 | Medium latest article |
 | --------------------- |
-| <div align="center"> [![medium](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0) </div>
+| <div align="center" [![medium](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)](https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0)> </div>
