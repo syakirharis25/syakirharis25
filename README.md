@@ -11,7 +11,7 @@
 
 | YEAR  | HOUR(S)      | TOP PROJECT | TOP PROJECT HOURS CONSUMPTION |
 |-------|--------------|-------------|------------------------------ |
-| XXXX  | 10,251:33:09 | ANGULAR     | https://progress-bar.dev/30?title=percent
+| XXXX  | 10,251:33:09 | ANGULAR     | ![50%](https://progress-bar.dev/50)
 | 2021  | 5,479:16:06  | ANGULAR     |
 | 2020  | 4,772:17:03  | BREAK       |
 
