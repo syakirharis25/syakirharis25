@@ -26,6 +26,4 @@
 
 | Medium latest article |
 | -------------- |
-| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
-
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" onclick="return ! window.open(this.href);">Open in a new window</a>
+| <div align="center"> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a> </div>
