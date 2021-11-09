@@ -1,4 +1,4 @@
-### Relentless. Never ever stop reading books. 📚
+### ![progressdate](https://progress-bar.dev/86) Relentless. Never ever stop reading books. 📚
 
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
@@ -8,7 +8,6 @@
 - 📖 Join me in [Medium](https://syakirharis25.medium.com), reading books, improving skills related to computer science
 - 💵 Please do support me, currently I am using service [PayPal](https://paypal.me/syakirharis), accepting any kind of donation, in any currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
-- ![progressdate](https://progress-bar.dev/86) Of year 2021 before year 2022
 
 | YEAR  | HOUR(S)      | TOP PROJECT |
 |-------|--------------|-------------|
