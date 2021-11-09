@@ -28,6 +28,4 @@
 | -------------- |
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" alt="Recent Article 0"></a>
 
-![go](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0" onclihttps://github-readme-medium-recent-article.vercel.app/medium/@syakirharis25/0ck="return ! window.open(this.href);">Open in a new window</a>
