@@ -48,4 +48,4 @@
 </table>
 
 
-<span style="display:block" class="note">It **works!**</span>
+<span>It **works!**</span>
