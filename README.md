@@ -32,17 +32,17 @@
 <tr>
 <td style="width: 87px;" rowspan="3">NOVEMBER</td>
 <td style="width: 276.672px;">HOURS</td>
-<td style="width: 10px;"><div align="center">192:53:20</div></td>
+<td style="width: 10px;"><div align="center"> 192:53:20 </div></td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">TOP PROJECT</td>
-<td style="width: 10px;">PHP</td>
+  <td style="width: 10px;"><div align="center"> PHP </div></td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;">51% </td>
+  <td style="width: 10px;"><div align="center"> 51% </div></td>
 
 </tr>
 </tbody>
