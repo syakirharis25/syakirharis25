@@ -23,4 +23,4 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
-[![Twitter](https://img.shields.io/twitter/follow/syakirharis25.svg?style=social&label=@:syakirharis25)](https://twitter.com/syakirharis25)
+[![Twitter](https://img.shields.io/twitter/follow/syakirharis25.svg?style=social&label=@syakirharis25)](https://twitter.com/syakirharis25)
