@@ -9,8 +9,6 @@
 - 💵 Please do support me, currently I am using service [PayPal](https://paypal.me/syakirharis), accepting any kind of donation, in any currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
-| TESTING HEADER                                   |
-|--------------------------------------------------|
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
 | XXXX  | 11,251:38:49 | <div align="center"> ANGULAR </div>     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
