@@ -29,6 +29,24 @@
 <tr>
   <td style="width: 534.672px;" colspan="3" align="center"><b>YEAR 2021 READING TRACK RECORD</b></td>
 </tr>
+
+<tr>
+<td style="width: 87px;" rowspan="3">XXXX</td>
+<td style="width: 276.672px;">HOUR(S)</td>
+<td style="width: 10px;"><div align="center"> 192:53:20 </div></td>
+
+</tr>
+<tr>
+<td style="width: 276.672px;">TOP PROJECT</td>
+  <td style="width: 10px;"><div align="center"> PHP </div></td>
+
+</tr>
+<tr>
+<td style="width: 276.672px;">CONSUMPTION</td>
+  <td style="width: 10px;"><div align="center"> 51% </div></td>
+
+</tr>
+
 <tr>
 <td style="width: 87px;" rowspan="3">NOVEMBER</td>
 <td style="width: 276.672px;">HOUR(S)</td>
@@ -45,6 +63,7 @@
   <td style="width: 10px;"><div align="center"> 51% </div></td>
 
 </tr>
+  
 </tbody>
 </table>
 </span>
