@@ -23,6 +23,8 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://syakirharis25.medium.com/membership) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syakirharis25) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net) 
 
+[![PHP](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)](https://dev.w3.org/html5/html-author/)
+
 <hr />
 
 <span style="display:block" class="note">
