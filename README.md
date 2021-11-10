@@ -23,6 +23,7 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://syakirharis25.medium.com/membership)
 
+<span>
 <table style="width: 248px;">
 <tbody>
 <tr>
@@ -46,6 +47,6 @@
 </tr>
 </tbody>
 </table>
-
+</span>
 
 <span>It **works!**</span>
