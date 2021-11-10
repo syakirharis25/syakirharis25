@@ -29,7 +29,7 @@
 <td style="width: 383px; height: 16px;" colspan="3" align="center"><strong>YEAR 2021 READING TRACK RECORD</strong></td>
 </tr>
 <tr>
-<td style="width: 383px; padding: 0;" colspan="3">&nbsp;</td>
+<td style="width: 383px; line-height: 1px" colspan="3">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 87.8125px; height: 57px;" rowspan="3"><strong>XXXX</strong></td>
@@ -51,7 +51,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 383px; height: 1px;" colspan="3">&nbsp;</td>
+<td style="width: 383px; line-height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 87.8125px; height: 69px;" rowspan="3"><strong>OCTOBER</strong></td>
@@ -73,7 +73,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 383px; height: 1px;" colspan="3">&nbsp;</td>
+<td style="width: 383px; line-height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 </tbody>
 </table>
