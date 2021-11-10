@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;">!51% </td>
+  <td style="width: 10px;">51% </td>
 
 </tr>
 </tbody>
