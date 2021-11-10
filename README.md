@@ -29,7 +29,7 @@
 <td style="width: 383.859px; height: 16px;" colspan="3" align="center"><strong>YEAR 2021 READING TRACK RECORD</strong></td>
 </tr>
 
-<tr style="height: 1px;">
+<tr>
 <td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 
@@ -52,7 +52,7 @@
 <div align="center">47.46%</div>
 </td>
 </tr>
-<tr style="height: 1px;">
+<tr>
 <td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
@@ -75,7 +75,7 @@
 </td>
 </tr>
   
-<tr style="height: 1px;">
+<tr>
 <td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>  
 
