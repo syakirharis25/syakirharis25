@@ -9,12 +9,6 @@
 - 💵 Please do support me, currently I am using service [PayPal](https://paypal.me/syakirharis), accepting any kind of donation, in any currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
-<a href="http://hireable.me/p/syakirharis25">
-  <img src="http://hireable.me/syakirharis25" alt="Is syakirharis25 available for hire?" />
-</a>
-
-
-
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
 | XXXX  | 11,251:38:49 | <div align="center"> ANGULAR </div>     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
@@ -28,3 +22,5 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=syakirharis25&layout=compact&custom_title=I%20am%20currently%20working%20on)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tweet](https://camo.githubusercontent.com/ba6a0298e220e449fbeb57c321bf15769fcc4fe62fa4b00909b09266505ccbbd/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d6874747073253341253246253246726168756c646b6a61696e2e6769746875622e696f2532466769746875622d70726f66696c652d726561646d652d67656e657261746f72)](https://twitter.com/intent/tweet?url=https://github.com/syakirharis25) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40syakirharis25)](https://twitter.com/syakirharis25)
+
+[![hireable](https://camo.githubusercontent.com/ff7a385945142681b89aaf11bd0e9792e6a1bb9b9daf3e155275b1ebfe334b7d/68747470733a2f2f63646e2e7261776769742e636f6d2f6869656e64762f6869726561626c652f6d61737465722f7374796c65732f64656661756c742f7965732e737667)
