@@ -23,6 +23,7 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://syakirharis25.medium.com/membership)
 
+<div class="year2021" markdown="1">
 <table style="width: 248px;">
 <tbody>
 <tr>
@@ -46,5 +47,4 @@
 </tr>
 </tbody>
 </table>
-
-<progress max="100" value="80"></progress>
+</div>
