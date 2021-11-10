@@ -23,52 +23,62 @@
 
 <hr />
 
-<table style="width: 248px;">
+<table style="width: 268.859px;">
 <tbody>
-<tr style="height: 43px;">
-<td style="width: 534.672px; height: 43px;" colspan="3" align="center"><strong>YEAR 2021 READING TRACK RECORD</strong></td>
+<tr style="height: 16px;">
+<td style="width: 383.859px; height: 16px;" colspan="3" align="center"><strong>YEAR 2021 READING TRACK RECORD</strong></td>
 </tr>
+
+<tr style="height: 1px;">
+<td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
+</tr>
+
 <tr style="height: 23px;">
-<td style="width: 87px; height: 81.5px;" rowspan="3">XXXX</td>
-<td style="width: 276.672px; height: 23px;">HOUR(S)</td>
-<td style="width: 10px; height: 23px;">
+<td style="width: 87px; height: 57px;" rowspan="3">XXXX</td>
+<td style="width: 276px; height: 23px;">HOUR(S)</td>
+<td style="width: 20.8594px; height: 23px;">
 <div align="center">192:53:20</div>
 </td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 276.672px; height: 23px;">TOP PROJECT</td>
-<td style="width: 10px; height: 23px;">
+<td style="width: 276px; height: 23px;">TOP PROJECT</td>
+<td style="width: 20.8594px; height: 23px;">
 <div align="center">PHP</div>
 </td>
 </tr>
-<tr style="height: 35.5px;">
-<td style="width: 276.672px; height: 35.5px;">CONSUMPTION</td>
-<td style="width: 10px; height: 35.5px;">
+<tr style="height: 11px;">
+<td style="width: 276px; height: 11px;">CONSUMPTION</td>
+<td style="width: 20.8594px; height: 11px;">
 <div align="center">47.46%</div>
 </td>
 </tr>
-<tr style="height: 3px;">
-<td style="width: 87px; height: 1px;" colspan="3">&nbsp;</td>
+<tr style="height: 1px;">
+<td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 87px; height: 69px;" rowspan="3">OCTOBER</td>
-<td style="width: 276.672px; height: 23px;">HOUR(S)</td>
-<td style="width: 10px; height: 23px;">
+<td style="width: 276px; height: 23px;">HOUR(S)</td>
+<td style="width: 20.8594px; height: 23px;">
 <div align="center">772:32:43</div>
 </td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 276.672px; height: 23px;">TOP PROJECT</td>
-<td style="width: 10px; height: 23px;">
+<td style="width: 276px; height: 23px;">TOP PROJECT</td>
+<td style="width: 20.8594px; height: 23px;">
 <div align="center">FreeBSD</div>
 </td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 276.672px; height: 23px;">CONSUMPTION</td>
-<td style="width: 10px; height: 23px;">
+<td style="width: 276px; height: 23px;">CONSUMPTION</td>
+<td style="width: 20.8594px; height: 23px;">
 <div align="center">48.57%</div>
 </td>
 </tr>
+  
+<tr style="height: 1px;">
+<td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
+</tr>  
+
 </tbody>
 </table>
 
