@@ -51,4 +51,6 @@
   
 <span style="display:block" class="note">It **works!**</span>
 
-<DIV>It **works!**</DIV>
+<div markdown="1">
+It **works!**
+</div>
