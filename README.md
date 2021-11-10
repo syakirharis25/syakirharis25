@@ -9,7 +9,10 @@
 - 💵 Please do support me, currently I am using service [PayPal](https://paypal.me/syakirharis), accepting any kind of donation, in any currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
-[![Is @syakirharis25 available for hire?](http://hireable.me/@syakirharis25)](http://hireable.me/p/@syakirharis25)
+<a href="http://hireable.me/p/syakirharis25">
+  <img src="http://hireable.me/syakirharis25" alt="Is syakirharis25 available for hire?" />
+</a>
+
 
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
