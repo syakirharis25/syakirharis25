@@ -42,15 +42,10 @@
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;">![51%](https://progress-bar.dev/51) </td>
+  <td style="width: 10px;">!51% </td>
 
 </tr>
 </tbody>
 </table>
 </span>
   
-<span style="display:block" class="note">It **works!**</span>
-
-<div markdown="1">
-It **works!**
-</div>
