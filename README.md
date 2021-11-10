@@ -23,7 +23,6 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://syakirharis25.medium.com/membership)
 
-<span>
 <table style="width: 248px;">
 <tbody>
 <tr>
@@ -42,11 +41,10 @@
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-<td style="width: 10px;">![51%](https://progress-bar.dev/51) </td>
+  <td style="width: 10px;"><span>![51%](https://progress-bar.dev/51)</span> </td>
 
 </tr>
 </tbody>
 </table>
-</span>
 
 <span>It **works!**</span>
