@@ -43,24 +43,24 @@
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;"><div align="center"> 51% </div></td>
+  <td style="width: 10px;"><div align="center"> 47.46% </div></td>
 
 </tr>
 
 <tr>
-<td style="width: 87px;" rowspan="3">NOVEMBER</td>
+<td style="width: 87px;" rowspan="3">OCTOBER</td>
 <td style="width: 276.672px;">HOUR(S)</td>
-<td style="width: 10px;"><div align="center"> 192:53:20 </div></td>
+<td style="width: 10px;"><div align="center"> 772:32:43 </div></td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">TOP PROJECT</td>
-  <td style="width: 10px;"><div align="center"> PHP </div></td>
+  <td style="width: 10px;"><div align="center"> FreeBSD </div></td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;"><div align="center"> 51% </div></td>
+  <td style="width: 10px;"><div align="center"> 48.57% </div></td>
 
 </tr>
   
