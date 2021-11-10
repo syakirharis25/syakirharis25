@@ -50,3 +50,7 @@
 </tbody>
 </table>
 </span>
+
+<hr />
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)]
