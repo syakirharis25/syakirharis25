@@ -50,3 +50,5 @@
 </span>
   
 <span style="display:block" class="note">It **works!**</span>
+
+<DIV>It **works!**</DIV>
