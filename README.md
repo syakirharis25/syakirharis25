@@ -11,8 +11,8 @@
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
-| XXXX  | 11,251:38:49 | <div align="center"> ANGULAR </div>     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
-| 2021  | 6,479:21:46  | <div align="center"> ANGULAR </div>     | <div align="center"> ![13%](https://progress-bar.dev/13) </div>
+| XXXX  | 11,251:38:49 | <div align="center"> Angular </div>     | <div align="center"> ![7%](https://progress-bar.dev/7) </div>
+| 2021  | 6,479:21:46  | <div align="center"> Angular </div>     | <div align="center"> ![13%](https://progress-bar.dev/13) </div>
 | 2020  | 4,772:17:03  | <div align="center"> BREAK </div>       | <div align="center"> ![27%](https://progress-bar.dev/27) </div>
 
 ![Thanks](https://komarev.com/ghpvc/?username=syakirharis25&label=Muhammad+Syakir+bin+Mohd+Haris+GitHub) [![Paypal](https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465)](https://paypal.me/syakirharis) ![hireable](https://camo.githubusercontent.com/ff7a385945142681b89aaf11bd0e9792e6a1bb9b9daf3e155275b1ebfe334b7d/68747470733a2f2f63646e2e7261776769742e636f6d2f6869656e64762f6869726561626c652f6d61737465722f7374796c65732f64656661756c742f7965732e737667)
