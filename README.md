@@ -34,7 +34,7 @@
 </tr>
 
 <tr style="height: 23px;">
-<td style="width: 87px; height: 57px;" rowspan="3">XXXX</td>
+  <td style="width: 87px; height: 57px;" rowspan="3"><b>XXXX</b></td>
 <td style="width: 276px; height: 23px;">HOUR(S)</td>
 <td style="width: 20.8594px; height: 23px;">
 <div align="center">192:53:20</div>
@@ -56,7 +56,7 @@
 <td style="width: 383.859px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 87px; height: 69px;" rowspan="3">OCTOBER</td>
+  <td style="width: 87px; height: 69px;" rowspan="3"><b>OCTOBER</b></td>
 <td style="width: 276px; height: 23px;">HOUR(S)</td>
 <td style="width: 20.8594px; height: 23px;">
 <div align="center">772:32:43</div>
