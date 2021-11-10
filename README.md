@@ -26,22 +26,22 @@
 <table style="width: 248px;">
 <tbody>
 <tr>
-<td style="width: 534.672px; background-color:beige;color:black;" colspan="3" align="center">YEAR 2021 ACTIVITIES</td>
+<td style="width: 534.672px;" colspan="3" align="center">YEAR 2021 ACTIVITIES</td>
 </tr>
 <tr>
-<td style="width: 87px; background-color:azure;color:black;" rowspan="3">NOVEMBER</td>
-<td style="width: 276.672px; background-color:yellowgreen;color:white;">HOURS</td>
-<td style="width: 10px;">&nbsp;</td>
+<td style="width: 87px;" rowspan="3">NOVEMBER</td>
+<td style="width: 276.672px;">HOURS</td>
+<td style="width: 10px;">192:53:20</td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">TOP PROJECT</td>
-<td style="width: 10px;">&nbsp;</td>
+<td style="width: 10px;">PHP</td>
 
 </tr>
 <tr>
 <td style="width: 276.672px;">CONSUMPTION</td>
-<td style="width: 10px;">&nbsp;</td>
+<td style="width: 10px;">![51%](https://progress-bar.dev/51) </td>
 
 </tr>
 </tbody>
