@@ -23,50 +23,54 @@
 
 <hr />
 
-<span style="display:block" class="note">
 <table style="width: 248px;">
 <tbody>
-<tr>
-  <td style="width: 534.672px;" colspan="3" align="center"><b>YEAR 2021 READING TRACK RECORD</b></td>
+<tr style="height: 43px;">
+<td style="width: 534.672px; height: 43px;" colspan="3" align="center"><strong>YEAR 2021 READING TRACK RECORD</strong></td>
 </tr>
-
-<tr>
-<td style="width: 87px;" rowspan="3">XXXX</td>
-<td style="width: 276.672px;">HOUR(S)</td>
-<td style="width: 10px;"><div align="center"> 192:53:20 </div></td>
-
+<tr style="height: 23px;">
+<td style="width: 87px; height: 81.5px;" rowspan="3">XXXX</td>
+<td style="width: 276.672px; height: 23px;">HOUR(S)</td>
+<td style="width: 10px; height: 23px;">
+<div align="center">192:53:20</div>
+</td>
 </tr>
-<tr>
-<td style="width: 276.672px;">TOP PROJECT</td>
-  <td style="width: 10px;"><div align="center"> PHP </div></td>
-
+<tr style="height: 23px;">
+<td style="width: 276.672px; height: 23px;">TOP PROJECT</td>
+<td style="width: 10px; height: 23px;">
+<div align="center">PHP</div>
+</td>
 </tr>
-<tr>
-<td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;"><div align="center"> 47.46% </div></td>
-
+<tr style="height: 35.5px;">
+<td style="width: 276.672px; height: 35.5px;">CONSUMPTION</td>
+<td style="width: 10px; height: 35.5px;">
+<div align="center">47.46%</div>
+</td>
 </tr>
-
-<tr>
-<td style="width: 87px;" rowspan="3">OCTOBER</td>
-<td style="width: 276.672px;">HOUR(S)</td>
-<td style="width: 10px;"><div align="center"> 772:32:43 </div></td>
-
+<tr style="height: 3px;">
+<td style="width: 87px; height: 1px;" colspan="3">&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 276.672px;">TOP PROJECT</td>
-  <td style="width: 10px;"><div align="center"> FreeBSD </div></td>
-
+<tr style="height: 23px;">
+<td style="width: 87px; height: 69px;" rowspan="3">OCTOBER</td>
+<td style="width: 276.672px; height: 23px;">HOUR(S)</td>
+<td style="width: 10px; height: 23px;">
+<div align="center">772:32:43</div>
+</td>
 </tr>
-<tr>
-<td style="width: 276.672px;">CONSUMPTION</td>
-  <td style="width: 10px;"><div align="center"> 48.57% </div></td>
-
+<tr style="height: 23px;">
+<td style="width: 276.672px; height: 23px;">TOP PROJECT</td>
+<td style="width: 10px; height: 23px;">
+<div align="center">FreeBSD</div>
+</td>
 </tr>
-  
+<tr style="height: 23px;">
+<td style="width: 276.672px; height: 23px;">CONSUMPTION</td>
+<td style="width: 10px; height: 23px;">
+<div align="center">48.57%</div>
+</td>
+</tr>
 </tbody>
 </table>
-</span>
 
 <hr />
 
