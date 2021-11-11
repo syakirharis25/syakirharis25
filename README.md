@@ -6,7 +6,7 @@
 - ⏳ Second hours in progress : 10,251 / 20,000 
 - 🐦 Follow me on [Twitter](https://twitter.com/syakirharis25), reading latest news especially related to computer science
 - 📖 Join me in [Medium](https://syakirharis25.medium.com), reading books, improving skills related to computer science
-- 💵 Please do support me, currently I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
+- 💵 Please do support me, I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
