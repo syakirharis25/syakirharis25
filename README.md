@@ -3,7 +3,7 @@
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 | 29 September 2021 | 369 days | DONE
-- ⏳ Since GitHub now is under Microsoft of Washington, therefore now applying Washington business theory of { 11,251 / 100,000 } life working hours
+- ⏳ Since GitHub now is under Microsoft of Washington, therefore now applying Washington business theory of { 11,251 / 100,000 } **life working hours**
 - 💵 Please do support me, I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
