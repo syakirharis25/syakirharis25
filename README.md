@@ -4,7 +4,7 @@
 - 🧬 Applying the philosophy : **curriculum vitae, ad vitam aut culpam** literraly it means "if you want to ask for my CV, my course of life, it is just that while I am still alive, while I still in power, while my brain still functioning, while I am still able; then work hard, work extremely hard, relentless"
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 | 29 September 2021 | 369 days | DONE
-- ⏳ Since GitHub owned by Microsoft of Washington, therefore now applying Washington business theory of { 11,251 / 100,000 } **life working hours**, project start date 26 September 2020
+- ⏳ Since GitHub owned by Microsoft of Washington, therefore now applying Washington school of business theory of { 11,251 / 100,000 } **life working hours**, project start date 26 September 2020
 - 💵 Please do support me, I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
