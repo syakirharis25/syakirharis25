@@ -1,7 +1,7 @@
 ### Relentless. Never ever stop reading books. 📚
 
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
-- 🧬 Applying the philosophy : **curriculum vitae, ad vitam aut culpam** literraly it means "the course of life, relentless, while still alive, while still in power, while you still able to work, then work hard"
+- 🧬 Applying the philosophy : **curriculum vitae, ad vitam aut culpam** literraly it means "the course of life, relentless, while still alive, while still in power, while still able to work; work hard"
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 | 29 September 2021 | 369 days | DONE
 - ⏳ Since GitHub owned by Microsoft of Washington, therefore now applying Washington business theory of { 11,251 / 100,000 } **life working hours**, project start date 26 September 2020
