@@ -12,7 +12,7 @@
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
-| 2021  | 7,573:03:57  | <div align="center"> Angular </div>     | <div align="center"> ![10.7%](https://progress-bar.dev/10.7) </div>
+| 2021  | 7,573:03:57  | <div align="center"> Angular </div>     | <div align="center"> ![11%](https://progress-bar.dev/11) </div>
 | 2020  | 6,479:21:46  | <div align="center"> Angular </div>     | <div align="center"> ![13%](https://progress-bar.dev/13) </div>
 | 2019  | 4,772:17:03  | <div align="center"> BREAK </div>       | <div align="center"> ![27%](https://progress-bar.dev/27) </div>
 
