@@ -3,7 +3,7 @@
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 | 29 September 2021 | 369 days | DONE
-- ⏳ 11,251 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
+- ⏳ 18,893 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
 - ⚙️ Planning to produce engineering report every 360,000 minutes based on all the works done every 10 years, to have clearer view, basic comprehensible understanding on how this world, of what's really happening on planet Earth and the surrounding planets inside the Solar System actually works
 - 💵 Please do support me, I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
@@ -12,7 +12,7 @@
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
-| xxxx  | 27:53:55     | <div align="center"> Yeah Russia </div> | <div align="center"> ![73%](https://progress-bar.dev/73) </div>
+| xxxx  | 69:11:03     | <div align="center"> Hook </div>        | <div align="center"> ![49%](https://progress-bar.dev/73) </div>
 | 2021  | 7,573:03:57  | <div align="center"> Angular </div>     | <div align="center"> ![11%](https://progress-bar.dev/11) </div>
 | 2020  | 6,479:21:46  | <div align="center"> Angular </div>     | <div align="center"> ![13%](https://progress-bar.dev/13) </div>
 | 2019  | 4,772:17:03  | <div align="center"> BREAK </div>       | <div align="center"> ![27%](https://progress-bar.dev/27) </div>
