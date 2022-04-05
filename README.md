@@ -4,7 +4,7 @@
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 | 29 September 2021 | 369 days | DONE
 - ⏳ 18,893 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
-- ⚙️ Planning to produce engineering report every 360,000 minutes based on all the works done every 10 years, to have clear view, basic comprehensible understanding on how this world, of what's really happening on planet Earth and the surrounding planets inside the Solar System actually works
+- ⚙️ Planning to produce engineering report every 360,000 minutes based on all the works done every 10 years, to have crystal clear view, basic comprehensible understanding on how this world, of what's really happening on planet Earth and the surrounding planets inside the Solar System actually works
 - 💵 Please do support me, I am using [PayPal](https://paypal.me/syakirharis) service, accepting any kind of donation, in any legal currency 
 - 📰 For those who want to be a member of Muhammad Syakir bin Mohd Haris, you can subscribe to my [annual newsletter](https://www.getrevue.co/profile/syakirharis25/members)
 
