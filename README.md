@@ -25,4 +25,4 @@
 
 <br />
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg) https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{syakirharis25}1212%2Fhit-counter
