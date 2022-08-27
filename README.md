@@ -4,11 +4,8 @@
 - 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 coding hours | 29 September 2021 | 369 days | DONE
 - ⏳ 18,893 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
-- ⚙️ I am planning to produce an engineering report every 360,000 minutes based on all the work done every 10 years, to have a crystal clear view and a basic comprehensible understanding of how this world works; of what's really happening on planet Earth and the surrounding planets inside the Solar System actually works
 - 💵 Please consider donating to me; I use [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
 - 📰 For those who want to be a business partner of Muhammad Syakir bin Mohd Haris, you can subscribe to my [Substack](https://syakirharis.substack.com/welcome)
-
-> An engineering report is a type of technical editing that presents a problem, analyzes it, and offers solutions. It involves collecting and compiling data and ideas, conducting testing, and organizing the information gained into comprehensible results for the reader. An engineering report should convey information clearly, offer information backed by evidence, and show why the solution stands out from the competition. The body of technical reports should show your reader how your process affects them, include evidence to support your conclusions, and make a case for why your reader should support your ideas. Engineering reports should allow for selective reading and effective communication. Title pages should clearly state the purpose of your writing. Your executive summary should be no longer than two (2) pages, and it acts as a condensed version of your research, conclusions, and recommendations. If your reader wants more information, the table of contents should allow them to find the correct section in seconds. Time is super important. Mastering my time and mastering your time means mastering our lifetime.
 
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
