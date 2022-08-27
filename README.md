@@ -7,6 +7,8 @@
 - 💵 Please consider donating to me; I use [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
 - 📰 For those who want to be a business partner of Muhammad Syakir bin Mohd Haris, you can subscribe to my [Substack](https://syakirharis.substack.com/welcome)
 
+![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+
 | YEAR  | HOUR(S)      | TOP PROJECT | CONSUMPTION |
 |-------|--------------|-------------|------------ |
 | xxxx  | 576:29:44    | <div align="center"> Ubuntu </div>      | <div align="center"> ![12%](https://progress-bar.dev/12) </div>
