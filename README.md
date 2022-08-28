@@ -1,4 +1,4 @@
-### Relentless. Never ever stop coding 🧑‍💻
+### Hi, I am relentless. Never ever stop coding 🧑‍💻
 
 - :octocat: I am also using [GitHub Gist](https://gist.github.com/syakirharis25) for coding purpose
 - 📫 Reach me through [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
