@@ -1,7 +1,7 @@
 ### Relentless. Never ever stop coding 🧑‍💻
 
 - :octocat: [GitHub Gist](https://gist.github.com/syakirharis25)
-- 📫 How to reach me : [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
+- 📫 Reach me through [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⌛ 10,000 / 10,000 **coding hours** | 29 September 2021 | 369 days | DONE
 - ⏳ 24,061 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
 - 💵 Please consider donating to me; I use [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
