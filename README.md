@@ -1,7 +1,7 @@
 ### Hi, I am relentless. Never ever stop coding 🧑‍💻
 
 - :octocat: I am also using [GitHub Gist](https://gist.github.com/syakirharis25) for coding purpose
-- 💵 Please consider donating to me; I use [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
+- 💵 Please consider donating to me; I am using [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
 - 📫 Reach me through [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me
 - ⏳ 24,061 / 100,000 **life working hours**, work on everything under the sun, project start date 26 September 2020
 - 📰 For those who want to be a business partner of Muhammad Syakir bin Mohd Haris, you can subscribe to my [Substack](https://syakirharis.substack.com/welcome)
