@@ -1,4 +1,4 @@
-### Hi, I am relentless. Never ever stop coding 🧑‍💻
+### Welcome, I am relentless. Never ever stop coding 🧑‍💻
 
 - :octocat: I am also using [GitHub Gist](https://gist.github.com/syakirharis25) for coding purpose
 - ⏳ 24,061 / 100,000 **life working hours**, start date 26 September 2020
