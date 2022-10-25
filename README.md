@@ -1,6 +1,6 @@
 ### Welcome, I am Muhammad Syakir bin Mohd Haris. I am relentless. Never ever stop coding 🧑‍💻
 
-- :octocat: I am using [GitHub](https://gist.github.com/syakirharis25) for coding purposes. I am a hardworking coder. Relentless. Never ever stop coding.
+- :octocat: I am using [GitHub](https://gist.github.com/syakirharis25) for coding purposes. I am a hardworking coder. I am relentless. Never ever stop coding.
 - 📰 For those who want to be my business partner, you can subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome).
 - 💵 Please do consider donating to [Muhammad Syakir bin Mohd Haris](https://paypal.me/syakirharis). I am accepting donations in any legal currency.
 
