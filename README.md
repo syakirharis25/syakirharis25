@@ -2,7 +2,6 @@
 
 - :octocat: I am using [GitHub Gist](https://gist.github.com/syakirharis25) for coding purpose. I am a hardworking coder. Never ever stop coding.
 - 💵 Please consider donating to me; I am using [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
-- 📫 Reach me through [GitHub discussions](https://github.com/syakirharis25/syakirharis25/discussions), please do introduce who you are and why you want to reach me.
 - 📰 For those who want to be a business partner of Muhammad Syakir bin Mohd Haris, you can subscribe to my [Substack](https://syakirharis.substack.com/welcome).
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
