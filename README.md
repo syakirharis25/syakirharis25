@@ -1,8 +1,8 @@
 ### Welcome, I am Muhammad Syakir bin Mohd Haris. I am relentless. Never ever stop coding 🧑‍💻
 
 - :octocat: I am using [GitHub Gist](https://gist.github.com/syakirharis25) for coding purpose. I am a hardworking coder. Never ever stop coding.
-- 💵 Please consider donating to Muhammad Syakir bin Mohd Haris; I am using [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
 - 📰 For those who want to be my business partner, you can subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome).
+- 💵 Please consider donating to Muhammad Syakir bin Mohd Haris; I am using [PayPal](https://paypal.me/syakirharis) and accept donations in any legal currency.
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
