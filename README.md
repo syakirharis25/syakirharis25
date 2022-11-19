@@ -1,8 +1,8 @@
 ### Welcome, I am Muhammad Syakir bin Mohd Haris. I am relentless. Never ever stop coding 🧑‍💻
 
-💵 Please do consider donating to [Muhammad Syakir bin Mohd Haris](https://paypal.me/syakirharis). I am accepting donations in any legal currency.
-📰 Please do subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome). Welcoming business partners from all around the world.
-✨ Hidup adalah perjuangan tanpa henti-henti, tiada yang jatuh dari langit dengan cuma-cuma, semuanya dengan usaha gigih untuk menempa kecemerlangan.
+> 💵 Please do consider donating to [Muhammad Syakir bin Mohd Haris](https://paypal.me/syakirharis). I am accepting donations in any legal currency.
+> 📰 Please do subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome). Welcoming business partners from all around the world.
+> ✨ Hidup adalah perjuangan tanpa henti-henti, tiada yang jatuh dari langit dengan cuma-cuma, semuanya dengan usaha gigih untuk menempa kecemerlangan.
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
