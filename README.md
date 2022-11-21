@@ -4,7 +4,7 @@
 - 📰 Please do subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome). Welcoming business partners from all around the world.
 - ✨ Hidup adalah perjuangan tanpa henti-henti, tidak ada terjadi dengan cuma-cuma, semuanya terjadi daripada hasil kerja keras.
 
-#Support_Muhammad_Syakir_bin_Mohd_Haris🍹🥃🧋🥤🍵☕🍚
+#Support_Muhammad_Syakir_bin_Mohd_Haris🍹🥃🧋🥤🍵☕🍚 <br />
 Following, links, likes in GitHub ≠ endorsement
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
