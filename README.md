@@ -5,7 +5,7 @@
 - ✨ Hidup adalah perjuangan tanpa henti-henti, tidak ada terjadi dengan cuma-cuma, semuanya terjadi daripada hasil kerja keras.
 
 #Support_Muhammad_Syakir_bin_Mohd_Haris🍹🥃🧋🥤🍵☕🍚 <br />
-Following, stars, links in GitHub ≠ endorsement
+Following, stars, badges, links in GitHub ≠ endorsement
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
