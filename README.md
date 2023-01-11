@@ -3,7 +3,7 @@
 - 💵 Please do consider donating to [Muhammad Syakir bin Mohd Haris](https://paypal.me/syakirharis). I am accepting donations in any legal currency.
 - 📰 Please do subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome). Welcoming business partners from all around the world.
 
-#Support_Muhammad_Syakir_bin_Mohd_Haris🍹🥃🧋🥤🍵☕🍚 <br />
+#Support_Muhammad_Syakir_bin_Mohd_Haris🍹🥃🧋🥤🍵☕ <br />
 Following, stars, badges, links in GitHub ≠ endorsement
 
 ![coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
