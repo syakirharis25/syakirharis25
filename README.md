@@ -1,4 +1,4 @@
-### Welcome, I am Muhammad Syakir bin Mohd Haris. I am relentless. Never ever stop coding 🧑‍💻
+### I am Muhammad Syakir bin Mohd Haris. I am relentless. Never ever stop coding 🧑‍💻
 
 - 💵 Please do consider donating to [Muhammad Syakir bin Mohd Haris](https://paypal.me/syakirharis). I am accepting donations in any legal currency.
 - 📰 Please do subscribe and support [Muhammad Syakir bin Mohd Haris](https://syakirharis.substack.com/welcome). Welcoming business partners from all around the world.
